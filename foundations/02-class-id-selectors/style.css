@@ -1,0 +1,17 @@
+
+.bgpink {
+    background-color: pink;
+    font-size: 24px;
+}
+.txt32 {
+    font-size: 32px;
+}
+#two {
+    color: blue;
+    font-size: 42px;
+}
+#three {
+    background-color: lightgreen;
+    font-weight: 900;
+    font-size: 28px;
+}
